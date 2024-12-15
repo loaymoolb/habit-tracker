@@ -2,6 +2,9 @@
 
 A React-based web application that extracts text from images using OCR (Optical Character Recognition). The app offers a seamless experience with image uploads, text extraction, and history management, all powered by the [API Ninjas OCR API](https://api.api-ninjas.com/).
 
+
+### [**Live Demo**](https://image-to-text-ocr-eta.vercel.app/)
+
 ## **Features**
 
 - **Upload Images**: Drag and drop or select JPEG/PNG files.
