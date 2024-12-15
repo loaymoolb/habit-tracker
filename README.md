@@ -21,10 +21,10 @@ A React-based web application that extracts text from images using OCR (Optical 
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/image-to-text-ocr.git
-   cd image-to-text-ocr
-   ```
+```bash
+git clone https://github.com/your-username/image-to-text-ocr.git
+cd image-to-text-ocr
+```
 
 2. Install dependencies:
 
